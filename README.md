@@ -2,8 +2,8 @@
 
 pre-commit message syntax:
 
-type:<Subject>
+type: Subject
 blank line
-<body>
+body
 blank line
-<footer>
+footer
